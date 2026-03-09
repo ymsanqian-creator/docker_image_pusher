@@ -1,4 +1,4 @@
 nginx
 python:alpine3.19
 testcontainers/helloworld
-https://github.com/ymsanqian-creator/docker_image_pusher
+zabbix/zabbix-web-nginx-mysql:trunk-centos
